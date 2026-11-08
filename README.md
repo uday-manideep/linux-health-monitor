@@ -2,7 +2,7 @@
 
 A lightweight Bash tool that checks **CPU, memory, disk usage and system log errors** on a Linux machine every 5 minutes, writes **timestamped logs**, and raises **threshold-based alerts** for high usage and repeated errors.
 
-Built and tested on Kali Linux (Debian-based) in VirtualBox; it uses only standard tools (`top`, `free`, `df`, `awk`, `grep`, `stat`, `tail`) and runs unchanged on Ubuntu.
+Built and tested on Kali Linux (Debian-based) in VirtualBox; it uses only standard tools (`top`, `free`, `df`, `awk`, `grep`, `stat`, `tail`) and should run on Ubuntu too (Ubuntu test pending).
 
 ## Features
 
