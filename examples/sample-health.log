@@ -1,0 +1,14 @@
+2026-11-08 13:16:43 [WARN] CPU usage 100.0% is at or above threshold 80%
+2026-11-08 13:16:44 [INFO] log_errors_new=5 (ignored_noise=0)
+2026-11-08 13:16:44 [WARN] Log errors: 5 new matches (threshold 5). Last: 2026-11-08T13:10:40.193743-05:00 kali systemd[1]: systemd-userdbd.service: Failed with result 'watchdog'.
+2026-11-08 13:16:56 [INFO] cpu=52.5% mem=12.1% disk=30%
+2026-11-08 13:16:56 [WARN] CPU usage 52.5% is at or above threshold 40%
+2026-11-08 13:16:56 [INFO] log_errors_new=7 (ignored_noise=0)
+2026-11-08 13:16:56 [WARN] Log errors: 7 new matches (threshold 5). Last: 2026-11-08T13:16:44.326735-05:00 kali dbus-daemon[509]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.
+2026-11-08 13:18:16 [INFO] cpu=0.8% mem=12.1% disk=30%
+2026-11-08 13:18:16 [INFO] log_errors_new=0 (ignored_noise=0)
+2026-11-08 13:18:18 [INFO] cpu=0.5% mem=12.1% disk=30%
+2026-11-08 13:18:18 [INFO] log_errors_new=0 (ignored_noise=6)
+2026-11-08 13:18:20 [INFO] cpu=0.5% mem=12.1% disk=30%
+2026-11-08 13:18:21 [INFO] log_errors_new=6 (ignored_noise=0)
+2026-11-08 13:18:21 [WARN] Log errors: 6 new matches (threshold 5). Last: 2026-11-08T13:18:18.764488-05:00 kali kali: REAL error 6

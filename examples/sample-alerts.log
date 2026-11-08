@@ -1,0 +1,4 @@
+2026-11-08 13:16:44 ALERT Log errors: 5 new matches (threshold 5). Last: 2026-11-08T13:10:40.193743-05:00 kali systemd[1]: systemd-userdbd.service: Failed with result 'watchdog'.
+2026-11-08 13:16:56 ALERT CPU usage 52.5% is at or above threshold 40%
+2026-11-08 13:16:56 ALERT Log errors: 7 new matches (threshold 5). Last: 2026-11-08T13:16:44.326735-05:00 kali dbus-daemon[509]: [system] Activation via systemd failed for unit 'dbus-org.bluez.service': Unit dbus-org.bluez.
+2026-11-08 13:18:21 ALERT Log errors: 6 new matches (threshold 5). Last: 2026-11-08T13:18:18.764488-05:00 kali kali: REAL error 6

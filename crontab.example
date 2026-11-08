@@ -1,0 +1,1 @@
+*/5 * * * * flock -n /tmp/health_monitor.lock /home/kali/linux-health-monitor/health_monitor.sh >> /home/kali/linux-health-monitor/logs/cron.out 2>&1
